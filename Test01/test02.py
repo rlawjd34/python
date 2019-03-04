@@ -3,6 +3,7 @@ import numpy
 import matplotlib.pyplot as plt
 
 # Git - 각 브랜치 독립성 확인 테스트 
+# Test
 
 # 데이터 준비
 x = numpy.arange(0, 6, 0.1) # 0에서 6까지 0.1간격으로 생성
